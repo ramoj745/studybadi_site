@@ -6,3 +6,5 @@ This is a responsive website built with **HTML**, **CSS**, and **Bootstrap**. It
 - Responsive layout using Bootstrap
 - Fun, capybara-themed design
 - Sample testimonials
+
+### <a href="https://ramoj745.github.io/studybadi_site/">Check out the website!</a>
